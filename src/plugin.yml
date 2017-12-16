@@ -1,0 +1,20 @@
+name: SmoothServerInfo
+version: 1.0
+author: stan1712
+main: fr.stan1712.ssi.Main
+commands:
+ ssi:
+  description: Show the main menu
+  permission: smoothinfo.main
+ iforum:
+  description: Show your forum
+  permission: smoothinfo.forum
+ iwebsite:
+  description: Show your website
+  permission: smoothinfo.website
+ idiscord:
+  description: Show your discord
+  permission: smoothinfo.discord
+ iteamspeak:
+  description: Show your teamspeak
+  permission: smoothinfo.teamspeak

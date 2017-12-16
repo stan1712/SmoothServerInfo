@@ -1,0 +1,21 @@
+#SmoothServerInfo v.1.0 by stan1712
+#My website : stan1712.fr // If you want to contact me : perso@stan1712.fr
+
+messages:
+  show-website: "&eOur Website :"
+  show-discord: "&eOur Discord :"
+  show-forum: "&eOur Forum :"
+  show-teamspeak: "&eOur TeamSpeak :"
+  no-permission: "&cYou don't have the permission !"
+#Activate or no social modules
+bwebsite: true
+bdiscord: true
+bforum: true
+bteamspeak: true
+
+#Set your social link here
+social:
+  website: "&9Set your website in the config !"
+  discord: "&9Set your discord in the config !"
+  forum: "&9Set your forum in the config !"
+  teamspeak: "&9Set your teamspeak in the config !"
