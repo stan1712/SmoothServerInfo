@@ -23,7 +23,7 @@ public class commands implements Listener {
   
 		if (args[0].equalsIgnoreCase("/ssi")){
 			if (p.hasPermission("smoothinfo.main")){
-				p.sendMessage(ChatColor.YELLOW + "SmoothServerInfo " + ChatColor.BLUE + "v1.0");
+				p.sendMessage(ChatColor.YELLOW + "SmoothServerInfo " + ChatColor.BLUE + "v1.5");
 				if(this.main.getConfig().getBoolean("bwebsite") == true ){
 					p.sendMessage(ChatColor.BLUE + "/iwebsite");
 				}
