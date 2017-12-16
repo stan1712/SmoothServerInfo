@@ -4,7 +4,10 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import fr.stan1712.ssi.Main;
+
 public class Main extends JavaPlugin implements Listener{
+
 	  public void onEnable()
 	  {
 	    saveDefaultConfig();
