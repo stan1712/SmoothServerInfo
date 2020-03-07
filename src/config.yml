@@ -1,5 +1,5 @@
-#SmoothServerInfo v.1.0 by stan1712
-#My website : stan1712.fr // If you want to contact me : perso@stan1712.fr
+#SmoothServerInfo v.1.6 by stan1712
+#My website : stan1712.com // If you want to contact me : perso@stan1712.com
 
 messages:
   show-website: "&eOur Website :"
@@ -7,6 +7,7 @@ messages:
   show-forum: "&eOur Forum :"
   show-teamspeak: "&eOur TeamSpeak :"
   no-permission: "&cYou don't have the permission !"
+  
 #Activate or no social modules
 bwebsite: true
 bdiscord: true
